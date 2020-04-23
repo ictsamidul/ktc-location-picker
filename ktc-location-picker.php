@@ -10,8 +10,8 @@
 	  **/
 
 
-	add_shortcode('location-picker', 'custom_location_picker');
-	function custom_location_picker(){
+	add_shortcode('location-picker', 'webguru_location_picker');
+	function webguru_location_picker(){
 		
 		?>
 		<style>
