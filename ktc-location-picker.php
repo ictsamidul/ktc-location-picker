@@ -1,6 +1,6 @@
 <?php
 	/**
-	  * Plugin Name: Location Picker for KTC
+	  * Plugin Name: KTC Location Picker
 	  * Plugin URI: https://github.com/wpwebguru/ktc-location-picker
 	  * Description: The location picker plugin is only for this website. Otherwise, The plugin not working without this website. Shortcode = [location-picker]
 	  * Author: Web Guru
@@ -171,7 +171,7 @@
       }
 
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAovP0ur1tW-gfGOE7is4qUXNvpg_p3jgI&libraries=places&callback=initAutocomplete"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCSxZgcKTxtnY-Eg9VfqUvDa3oxYED9gfM&libraries=places&callback=initAutocomplete"
          async defer></script>
 		
 		
